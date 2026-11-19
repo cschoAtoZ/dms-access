@@ -1,5 +1,5 @@
 {
-  "enabled": ture,
+  "enabled": true,
   "allow": [
     { "id": "kc20220702", "name": "본인", "until": "2099-12-31" }
   ],
