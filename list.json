@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "allow": [
     { "id": "kc20220702", "name": "본인", "until": "2099-12-31" },
     { "id": "kc20211201", "name": "주혁", "until": "2099-12-31" },
